@@ -1,0 +1,15 @@
+/* UserDetails.css */
+.user-details-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-details-label {
+  font-weight: bold;
+  padding: 8px;
+}
+
+.user-details-value {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
